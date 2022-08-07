@@ -1,4 +1,5 @@
 # Film Finder
+PLEASE NOTE - You will need to obtain an API key from the [The Movie Database](https://www.themoviedb.org/documentation/api) and then add it to the script.js file to run this project locally.
 
 ## Project Summary
 You’ve caught up on your list of TV shows and movies and want to get recommendations for what to watch next, but aren’t sure where to look. In this project, you’ll use your knowledge of HTTP requests and asynchronous JavaScript to create a movie discovery app that will recommend random movies by genre. You’ll be able to choose from several genres, and like or dislike a movie to get another suggestion.
